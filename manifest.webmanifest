@@ -1,0 +1,17 @@
+{
+ "name": "موسوعة البطاطس",
+ "short_name": "البطاطس",
+ "lang": "ar",
+ "dir": "rtl",
+ "start_url": "index.html",
+ "display": "standalone",
+ "background_color": "#f6f4ee",
+ "theme_color": "#1f6b45",
+ "icons": [
+  {
+   "src": "favicon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}
